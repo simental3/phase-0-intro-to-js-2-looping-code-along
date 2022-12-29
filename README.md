@@ -1,4 +1,4 @@
-# Looping Lab
+https://github.com/simental3/phase-0-intro-to-js-2-looping-code-along.git# Looping Lab
 
 ## Learning Goals
 
